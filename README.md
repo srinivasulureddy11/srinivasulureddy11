@@ -65,17 +65,6 @@ I like the whole process of developing innovative websites.  When designing my w
 <br/><br/>
 
 
-## 🔥 GitHub Streak
-
-<picture>
-  <source srcset="https://github-readme-streak-stats.herokuapp.com/?user=mevlutcelik&theme=dark&bg_color=0d1117&border_color=2d3541" media="(prefers-color-scheme: dark)">
-  <img title="Mevlüt Çelik | GitHub Streak" src="https://streak-stats.demolab.com?user=mevlutcelik">
-</picture>
-
-<br/><br/>
 
 
 
-## 👀 Repo Overview
-
-<img src="https://opengraph.githubassets.com/098fd83e7ce68376eb2e01003a55eb7e1eb8b093aeda5e7d87ce9bd2a7d0d0f8/mevlutcelik/mevlutcelik" alt="Mevlüt Çelik (mevlutcelik) | Repo Overview" width="400"/>
