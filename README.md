@@ -34,10 +34,9 @@ I like the whole process of developing innovative websites.  When designing my w
 <br/><br/>
 
 
-💼 **LinkedIn**: <a title="Srinivas | LinkedIn" href="https://www.linkedin.com/in/imsrinivas/" target="_blank">Srinivas</a><br/>
-🧑 **Instagram**: <a title="@mevlut.celik23 | Instagram" href="https://www.instagram.com/mevlut.celik23" target="_blank">@mevlut.celik23</a><br/>
-🐈‍⬛ **GitHub**: <a title="Mevlüt Çelik | GitHub" href="#" target="_blank">srinivasulureddy11</a><br/>
-📩 **E-mail**: <a title="info@mevlutcelik.com" href="mailto:bsrinivasulureddy799@gmail.com" target="_blank">bsrinivasulureddy799@gmail.com</a><br/><br/>
+💼 **LinkedIn**: <a title="Srinivas | LinkedIn" href="https://www.linkedin.com/in/imsrinivas/" target="_blank">Srinivas.linkedIn</a><br/>
+🐈‍⬛ **GitHub**: <a title="Srinivas | GitHub" href="#" target="_blank">srinivasulureddy11</a><br/>
+📩 **E-mail**: <a title="Srinivas" href="mailto:bsrinivasulureddy799@gmail.com" target="_blank">bsrinivasulureddy799@gmail.com</a><br/><br/>
 
 ### 🎈 My favorite sentence
 
