@@ -24,8 +24,8 @@ I like the whole process of developing innovative websites.  When designing my w
 
 ### 🤝 Connect with me:
 
-<a target="_blank" title="Mevlüt Çelik | Web Site (www.mevlutcelik.com)" href="https://www.mevlutcelik.com/"><img align="left" src="https://img.shields.io/badge/website-1a73e8?style=for-the-badge&logo=About.me&logoColor=white" alt="www.mevlutcelik.com"/></a>
-<a target="_blank" title="Mevlüt Çelik | LikedIn" href="https://www.linkedin.com/in/mevlutcelik/"><img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Mevlüt Çelik | LinkedIn"/></a>
+<a target="_blank" title="Mevlüt Çelik | Web Site " href="#"><img align="left" src="https://img.shields.io/badge/website-1a73e8?style=for-the-badge&logo=About.me&logoColor=white" alt="www.mevlutcelik.com"/></a>
+<a target="_blank" title="Mevlüt Çelik | LikedIn" href="https://www.linkedin.com/in/imsrinivas/"><img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Mevlüt Çelik | LinkedIn"/></a>
 <a target="_blank" title="Mevlüt Çelik | Codepen" href="https://codepen.io/mevlut"><img align="left" src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="Mevlüt Çelik | Codepen"/></a>
 <a target="_blank" title="@mevlut.celik23 | Instagram" href="https://www.instagram.com/mevlut.celik23/"><img align="left" src="https://img.shields.io/badge/Instagram-833AB4?style=for-the-badge&logo=instagram&logoColor=white" alt="@mevlut.celik23 | Instagram"/></a>
 <a target="_blank" title="Mevlüt Çelik | GitHub" href="https://github.com/mevlutcelik"><img align="left" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Mevlüt Çelik | GitHub"/></a>
