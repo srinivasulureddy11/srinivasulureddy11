@@ -2,9 +2,9 @@
   <a href="#" target="_blank" rel="noreferrer"><img src="https://media.licdn.com/dms/image/v2/D5616AQFEWjQCZo45bw/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1681476837785?e=2147483647&v=beta&t=37bJVsC5eOmYtjkH6rFiI-Dfr5QbN8PSWUTb0eEQlHM" alt="Srinivas"></a>
 </p>
 
-<h3 align="center">
+<h1 align="center">
 Hi there, I'm Srinivasulu Reddy  👋
-</h3>
+</h1>
 
 <h2 align="center">
 I'm a Software Developer 💻
@@ -26,10 +26,8 @@ I like the whole process of developing innovative websites.  When designing my w
 
 <a target="_blank" title="Mevlüt Çelik | Web Site " href="#"><img align="left" src="https://img.shields.io/badge/website-1a73e8?style=for-the-badge&logo=About.me&logoColor=white" alt="www.mevlutcelik.com"/></a>
 <a target="_blank" title="Mevlüt Çelik | LikedIn" href="https://www.linkedin.com/in/imsrinivas/"><img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Mevlüt Çelik | LinkedIn"/></a>
-<a target="_blank" title="Mevlüt Çelik | Codepen" href="https://codepen.io/mevlut"><img align="left" src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="Mevlüt Çelik | Codepen"/></a>
-<a target="_blank" title="@mevlut.celik23 | Instagram" href="https://www.instagram.com/mevlut.celik23/"><img align="left" src="https://img.shields.io/badge/Instagram-833AB4?style=for-the-badge&logo=instagram&logoColor=white" alt="@mevlut.celik23 | Instagram"/></a>
 <a target="_blank" title="Mevlüt Çelik | GitHub" href="https://github.com/mevlutcelik"><img align="left" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Mevlüt Çelik | GitHub"/></a>
-<a target="_blank" title="info@mevlutcelik.com | E-mail" href="mailto:info@mevlutcelik.com"><img align="left" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="info@mevlutcelik.com | E-mail"/></a>
+<a target="_blank" title="info@mevlutcelik.com | E-mail" href="mailto: bsrinivasulureddy799@gmail.com"><img align="left" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="info@mevlutcelik.com | E-mail"/></a>
 
 <br/><br/>
 
